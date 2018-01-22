@@ -2,6 +2,8 @@
 
 ## SVM Assignment 
 
+Here is the link to all the recordings again: https://drive.google.com/drive/folders/1Dk9ax8CA4fA4ytz0H6P4in6P4SkTUjEj?usp=sharing
+
 In this problem, we will apply a support vector machine to classify hand-written digits. You do not have to implement the SVM algorithm: `scikit-learn` has built-in classes for you to utilize. 
 
  The file `uspsdata.txt` contains a matrix with one data point (= vector of length 256) per row.
